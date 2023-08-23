@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiineelgn&label=Profile%20views&color=0e75b6&style=flat" alt="amiineelgn" /> </p>
 
-- 🔭 I’m currently working on **MERN Application**
+- 🔭 I’m currently working on **MEAN Application**
 
 - 🌱 I’m currently learning **React Native, Cloud, Big data, Flutter**
 
