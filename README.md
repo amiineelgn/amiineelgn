@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://elgnaoui-med-amine.netlify.app/](https://elgnaoui-med-amine.netlify.app/)
 
-- 💬 Ask me about **React, Express, Angular, Spring Boot**
+- 💬 Ask me about **Angular, React, Express, NestJs**
 
 - 📫 How to reach me **med.amine.elgnaoui@gmail.com**
 
