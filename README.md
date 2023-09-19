@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://elgnaoui-med-amine.netlify.app/](https://elgnaoui-med-amine.netlify.app/)
 
-- 💬 Ask me about **Angular, React, Express, NestJs**
+- 💬 Ask me about **Angular, React, NodeJs, Mongo**
 
 - 📫 How to reach me **med.amine.elgnaoui@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ojqjek7SB0okOj1bz0UHVA1h2KFKz8e0/view?usp=sharing](https://drive.google.com/file/d/1ojqjek7SB0okOj1bz0UHVA1h2KFKz8e0/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
