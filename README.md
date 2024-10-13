@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **MEAN Application**
 
-- 👨‍💻 All of my projects are available at [https://elgnaoui-med-amine.netlify.app/](https://elgnaoui-med-amine.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://elgnaoui-med-amine.netlify.app](https://mohamed-amine-elgnaoui.netlify.app/)/]
 
-- 💬 Ask me about **Angular, React, NodeJs, Mongo**
+- 💬 Ask me about **Angular, React, NestJs/ExpresJs, Mongo**
 
 - 📫 How to reach me **med.amine.elgnaoui@gmail.com**
 
